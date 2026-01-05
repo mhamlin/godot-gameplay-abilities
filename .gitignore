@@ -46,6 +46,7 @@ compile_commands.json
 *.idb
 *.exp
 *.wasm
+*.framework
 
 # Other stuff
 *.log
